@@ -1,0 +1,13 @@
+.stock-ribbon {
+    background-color: #082b43;
+    color: white;
+    font-size: 12px;
+    padding: 1px;
+    overflow: hidden;
+    margin-top: auto;
+  }
+  
+  .stock-ribbon marquee {
+    white-space: nowrap;
+  }
+  

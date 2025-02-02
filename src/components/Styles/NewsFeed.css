@@ -1,0 +1,10 @@
+.news-slideshow {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .news-container {
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  

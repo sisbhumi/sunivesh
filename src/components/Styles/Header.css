@@ -1,0 +1,24 @@
+.header {
+    background-color: #082b43;
+    color: #e9d8a6;
+    padding: 5px 10px;
+    justify-content: space-between;    
+  }
+
+  .nav-link{
+  color: #e9d8a6;
+  }
+
+  .navbar :hover{
+    color: #cab473;
+  }
+ 
+  li{
+    list-style-type: none;
+    display: inline-block;
+    padding-left: 1%;
+    color: #e9d8a6;
+  }
+  a:hover{
+    color: #aca07a;
+  }  
